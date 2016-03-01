@@ -29,7 +29,7 @@ Choose 4 To Quit
 
 For Example - 
 
-Server Output -   
+Server Output-   
 Please select any of the below mentioned options
 1 Client Name
 2 All Client Queries
